@@ -1,7 +1,9 @@
-<h1 align="center">Amigo Secreto</h1>
+<h1 align="center">
+  <img src="assets/amigo-secreto.png" alt="Imagen representativa de amigo secreto" align="center"> 
+    AMIGO SECRETO
+</h1>
 
-
-##Índice
+##Indice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
