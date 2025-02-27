@@ -1,5 +1,6 @@
 <h1 align="center">Amigo Secreto</h1>
 
+
 ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
@@ -22,6 +23,6 @@
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+*[Licencia](#licencia)
 
 *[Conclusión](#conclusión)
