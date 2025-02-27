@@ -1,2 +1,27 @@
 <h1 align="center">Amigo Secreto</h1>
-![Logo de amigo secreto](https://github.com/user-attachments/assets/cd9de515-eef9-4428-84ca-8f498f00eab4)
+
+##Índice
+
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
