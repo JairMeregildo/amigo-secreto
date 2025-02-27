@@ -1,1 +1,1 @@
-<h1 align="center">Amigos Secreto</h1>
+<h1 align="center">Amigo Secreto</h1>
