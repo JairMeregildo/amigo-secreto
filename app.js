@@ -5,7 +5,9 @@ function agregarAmigo(){
     document.querySelector('#resultado').innerHTML='';
     if (amigos === '') {  // Validación para que no se agregue un valor vacío
         alert('Por favor, ingrese un nombre valido')
-    }else{
+    }else if (nombres.includes(amigo)) {  
+        alert('Este nombre ya ha sido agregado');
+    } else {
         nombres.push(amigos); // Si no esta vacio agrega la lista de amigos
         mostrar(); // Actualiza la lista de amigos
     }
@@ -21,9 +23,13 @@ function mostrar(){
 }
 
 function sortearAmigo(){
+    
     if(nombres.length === 0){
         document.querySelector('#resultado').innerHTML='<p>No hay amigos para sortear </p>';
-    }else{
+    }else if (nombres.length < 2) {
+        document.querySelector('#resultado').innerHTML = '<p>Debe haber al menos 2 participantes para el sorteo.</p>';
+        return;
+    } else {
         let sorteo = Math.floor(Math.random()*nombres.length);
         document.querySelector('#resultado').innerHTML='<p>El amigo secreto sorteado es: '+ nombres[sorteo]+'</p>';
     }
