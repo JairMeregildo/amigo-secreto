@@ -3,28 +3,40 @@
     AMIGO SECRETO
 </h1>
 
-##Indice
+## Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+- [Título e imagen de portada](#título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
+- [Insignias](#insignias)
 
-*[Índice](#índice)
+- [Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+- [Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+- [Estado del proyecto](#estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+- [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#acceso-al-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+- [Personas Contribuyentes](#personas-contribuyentes)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+- [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
 
-*[Licencia](#licencia)
+- [Licencia](#licencia)
 
-*[Conclusión](#conclusión)
+- [Conclusión](#conclusión)
+
+## Título e imagen de portada
+## Insignias
+## Descripción del proyecto
+## Estado del proyecto
+## Características de la aplicación y demostración
+## Acceso al proyecto
+## Tecnologías utilizadas
+## Personas Contribuyentes
+## Personas Desarrolladores del Proyecto
+## Licencia
+## Conclusión
