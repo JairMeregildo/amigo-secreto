@@ -5,7 +5,7 @@ function agregarAmigo(){
     document.querySelector('#resultado').innerHTML='';
     if (amigos === '') {  // Validación para que no se agregue un valor vacío
         alert('Por favor, ingrese un nombre valido')
-    }else if (nombres.includes(amigo)) {  
+    }else if (nombres.includes(amigos)) {  
         alert('Este nombre ya ha sido agregado');
     } else {
         nombres.push(amigos); // Si no esta vacio agrega la lista de amigos
