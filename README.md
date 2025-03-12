@@ -60,9 +60,9 @@
 
 ## Acceso al proyecto
 
-Puedes acceder al codigo fuente [Repositorio Amigo Secreto](https://github.com/JairMeregildo/amigo-secreto) 
-Tambien puedes descargarlo [Proyecto Amigo Secreto](https://github.com/JairMeregildo/amigo-secreto/archive/refs/heads/main.zip) 
-si quieres un demo del proyecto aqui lo puedes probar [Amigo Secreto](https://jairmeregildo.github.io/amigo-secreto/)
+* Puedes acceder al codigo fuente [Repositorio Amigo Secreto](https://github.com/JairMeregildo/amigo-secreto) 
+* Tambien puedes descargarlo [Proyecto Amigo Secreto](https://github.com/JairMeregildo/amigo-secreto/archive/refs/heads/main.zip) 
+* Si quieres un demo del proyecto aqui lo puedes probar [Amigo Secreto](https://jairmeregildo.github.io/amigo-secreto/)
 
 ## Herramientas utilizadas
 
