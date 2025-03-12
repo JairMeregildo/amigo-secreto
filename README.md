@@ -10,7 +10,9 @@
 - [Descripción del proyecto](#descripción-del-proyecto)
 
 - [Funcionalidades](#funcionalidades)
-
+  
+- [Acceso al proyecto](#acceso-al-proyecto)
+  
 - [Herramientas utilizadas](#herramientas-utilizadas)
 
 - [Personas Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
@@ -55,6 +57,12 @@
 <p align="center">
   <img style="width:65%" src="https://github.com/user-attachments/assets/5d8e8790-0ada-4c05-96a6-c89b57793498">
 </p>
+
+## Acceso al proyecto
+
+Puedes acceder al codigo fuente [Repositorio Amigo Secreto](https://github.com/JairMeregildo/amigo-secreto) 
+Tambien puedes descargarlo [Proyecto Amigo Secreto](https://github.com/JairMeregildo/amigo-secreto/archive/refs/heads/main.zip) 
+si quieres un demo del proyecto aqui lo puedes probar [Amigo Secreto](https://jairmeregildo.github.io/amigo-secreto/)
 
 ## Herramientas utilizadas
 
